@@ -9,7 +9,11 @@ class Dog
   end
   
   def breed
+<<<<<<< HEAD
     @breed
+=======
+    @breed = breed
+>>>>>>> e1ffd6ae4347d07a4e6c56fe39539d6958548fe9
   end
   
   def breed=(new_breed)
